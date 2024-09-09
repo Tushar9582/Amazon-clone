@@ -1,1 +1,2 @@
 # Amazon-clone
+For my project, I developed an Amazon clone using HTML and CSS to mimic the distinctive layout and functionality of the e-commerce giant’s website. This clone features a polished interface with a navigation bar, product listings, and a responsive design to ensure seamless user interaction across various devices. By focusing on clean and structured styling, I aimed to create a user-friendly shopping experience that reflects the key elements of Amazon’s platform, showcasing my skills in front-end web development and design.
